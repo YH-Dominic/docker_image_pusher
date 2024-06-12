@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.1.0-slim
+seataio/seata-server:1.5.2
